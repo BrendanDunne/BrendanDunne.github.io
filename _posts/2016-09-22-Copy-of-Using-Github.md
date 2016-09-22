@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github
+title: Lesson 2
 layout: post
 author: brendan.dunne
 permalink: /copy-of-using-github/
