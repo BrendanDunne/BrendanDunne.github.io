@@ -1,5 +1,5 @@
 ---
-title: lesson 5
+title: First Spreadsheets
 layout: post
 author: brendan.dunne
 permalink: /copy-of-using-github/
