@@ -1,5 +1,5 @@
 ---
-title: Lesson 6
+title: Reflective Lesson
 layout: post
 author: brendan.dunne
 permalink: /copy-of-using-github/
@@ -22,12 +22,11 @@ published: true
     <td>a half working sheets document</td>
   </tr>
   <tr>
-    <td>Target for </td>
+    <td>Target for:</td>
     <td>a fully functional sheets file</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <td>Did I reach my target?:</td>
     <td> yes, I now have a working file</td>
   </tr>
 </table>
@@ -53,7 +52,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will change my outlook on school due to a speech given by our teacher in the lesson. A few choice words were said by him and so I changed my views on homework and schoolwork. A few things he said were that we always take the easiest route to doing something, not making it look good, but just getting enough done. We always try to ask others for help as soon as we stumble across a small problem. And so I endeavour to try and make all my work from now on look good and as if I did it on the way to school.</td>
+    <td>I will change my outlook on school due to a speech given by our teacher in the lesson. A few choice words were said by him and so I changed my views on homework and schoolwork. A few things he said were that we always take the easiest route to doing something, not making it look good, but just getting enough done. We always try to ask others for help as soon as we stumble across a small problem. And so I endeavour to try and make all my work from now on look good and not as if I did it on the way to school.</td>
   </tr>
 </table>
 
