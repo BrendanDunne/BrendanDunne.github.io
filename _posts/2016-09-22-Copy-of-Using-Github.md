@@ -1,5 +1,5 @@
 ---
-title: Lesson 2
+title: Changing the look of my blog
 layout: post
 author: brendan.dunne
 permalink: /copy-of-using-github/
