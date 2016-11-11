@@ -24,8 +24,9 @@ body {
 }
  
 
-table {
+table, th {
     border-collapse: collapse;
+    text-align: left;
 }
 table, th, td {
    padding: 15px;
