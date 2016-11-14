@@ -28,6 +28,8 @@ table, td {
     border-collapse: collapse;
     text-align: left;
 	border: white solid;
+	td:first-child {
+    width: 33%;
 
 }
 table, th, td {
