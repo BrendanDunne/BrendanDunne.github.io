@@ -27,11 +27,13 @@ body {
 table, td {
     border-collapse: collapse;
     text-align: left;
+    table-width: 100%;
 	
 }
 table, th, td {
    padding: 15px;
    border-bottom: 1px solid #ddd;
+   table-width: 100%;
 }  
    
 
