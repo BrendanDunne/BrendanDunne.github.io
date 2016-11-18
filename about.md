@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am, unfortunately, not allowed to really say anything as I could be found by someone untoward. Therefore, I am just going to write this inconsequential and pointless couple of sentences here instead.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am also not allowed to put anything here as once again I could be found by someone untoward. So, I am just going to stop writing this sentence right now.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
