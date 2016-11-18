@@ -90,10 +90,11 @@ p {
 
 a {
   color: #fff;
-  text-decoration: none;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
     color: #fff;
+  text-transform: lowercase;
   }
 }
 
