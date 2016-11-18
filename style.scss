@@ -20,14 +20,14 @@ html {
 body {
 	background-image: url("http://www.fact.co.uk/media/62200075/6990934-space-planets-art.png");
   font-family: "Lucida Console";
-  color: #ffffff;
+  color: #000000;
 }
  
 
 table, td {
     border-collapse: collapse;
     text-align: left;
-	border: white solid;
+	border: black solid;
 	
 }
 table, th, td {
@@ -47,7 +47,7 @@ table, th, td {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #ffffff;
+  color: #000000;
   font-weight: bold;
   text-align: left;
 
