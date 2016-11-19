@@ -290,7 +290,8 @@ nav {
   .read-more {
     text-transform: lowercase;
     font-size: 15px;
-    margin-top: 5px;
+    position: relative;
+    bottom: 10px;
   }
 }
 
