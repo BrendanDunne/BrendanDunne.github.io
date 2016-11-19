@@ -94,7 +94,6 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: #fff;
-  text-transform: lowercase;
   }
 }
 
@@ -289,7 +288,7 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 15px;
   }
 }
