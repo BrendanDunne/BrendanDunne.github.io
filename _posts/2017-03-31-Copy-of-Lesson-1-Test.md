@@ -1,17 +1,17 @@
 ---
-title: Problem Solving
+title: Optical Illusions
 layout: post
 author: brendan.dunne
 permalink: /copy-of-lesson-1-test/
-source-id: 1M0TFIwtqmz_E4jasd5dE0_lyNYCfA4GYl21Y96JXNVk
+source-id: 1jObFHdPMCXjeUsW5z8Ls96rC05wc81MVR5DSbRq1xJQ
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Problem Solving</td>
+    <td>Optical Ilusions</td>
     <td>Date</td>
-    <td>09/09/16</td>
+    <td>15/03/17</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Previous knowledge of Python.</td>
+    <td>No knowledge - new project</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Complete Python worksheets.</td>
+    <td>To have a talking Python program</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Yes, I did complete the worksheets for homework.</td>
+    <td> Mostly, but it was not case sensitive</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by recalling past use of Python and trying to utilise all available help, such as w3schools and other students. Also, the worksheets were helpful and were simple to follow. This made the work easier to do and understand.</td>
+    <td>During the lesson, we mostly talked about optical illusions and how easy it is to trick your eyes. This is because we are programmed to compare things, not just look at them which gives us our depth perception. However, this is not always a nice thing to have as your brain can easily be tricked into seeing something that does not make much sense but because your brain compares things, not just looks at them. Back to the actual programming though. We were trying to create the code for a python program that responds and has a short conversation with you. Since, we had previously studied Python, I mostly learnt by trying to recall all that I needed to complete the task.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I do not think very much limited my learning this lesson. Something that could have limited my learning was that I had done little to no practice of Python recently so I had to try hard to remember how to form the program correctly.</td>
+    <td>What limited my learning this lesson was not very much. Although, you could say I probably spent too much time wondering about optical illusions, not the actual Python but that was not too bad. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will practice programming more often to stay up to date on all that I need to know. This will also enable me to stay fluent in the program.</td>
+    <td>Next time, I will try to focus more on the work not just the interesting start of the lesson. Also, I could practice coding more often so it becomes easier to recall all the coding I need to write fluently in that programming language.</td>
   </tr>
 </table>
 
