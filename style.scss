@@ -226,7 +226,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  colour: #fff
+  color: #fff
 }
 
   @include mobile {
@@ -255,7 +255,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 10px;
 }
 
 .posts > .post:last-child {
