@@ -217,18 +217,8 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 40px;
+  font-size: 65px;
   letter-spacing: 1px;
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: #ffffff;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
 }
 
 nav {
@@ -285,14 +275,6 @@ nav {
 
   .comments {
     margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: lowercase;
-    font-size: 15px;
-    position: relative;
-    top: 10px;
-    text-decoration: underline;
   }
 }
 
